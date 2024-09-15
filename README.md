@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="programming.gif" alt="Programming GIF">
+  <img src="coding.gif" alt="Programming GIF">
 </p>
 <h1 align="center">Hi 👋, I'm Patryk Pietrzyk</h1>
 <h3 align="center">Creator of mobile GPS application and owner of a server room</h3>
